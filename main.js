@@ -1,5 +1,3 @@
-import * as THREE from 'three';
-
 
 function main() {
   const scene = new THREE.Scene();
